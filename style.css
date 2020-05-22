@@ -1,0 +1,68 @@
+body{
+padding:0px;
+margin:0px;
+background-color:#E6E6E6;
+}
+
+table, td {
+		width:100%;
+		height:100%;
+		border:0px;
+	}
+
+td { vertical-align:top;}
+
+a:hover{text-decoration:none;}
+
+img { border:0px;}
+
+.main_text, table, li, input, textarea
+	{
+		font-family:Tahoma;
+		font-size:11px;
+		line-height:normal;
+		color:#6C6C6C;
+	}
+
+span a { color:#10436E}
+
+font span a { font-size:11px; line-height:normal; color:#7EA800}
+
+.h_text {}
+	
+.l_text {}
+	
+.c_text { color:#777777}
+.c_text a{ color:#777777; text-decoration:none}
+.c_text a:hover{ color:#777777; text-decoration:underline}
+.c_text span { color:#A6A6A6; line-height:11px}
+.c_text font a { color:#5C5C5C; line-height:11px; text-decoration:none; text-transform:uppercase; font-size:11px; line-height:11px}
+.c_text font a:hover { color:#5C5C5C; line-height:11px; text-decoration:underline}
+
+.no_class, form, .no_class td
+	{
+		width:auto;
+		height:auto;
+		margin:0px;
+		padding:0px;
+		border:0px;
+		
+	}
+
+.form{height:23px; margin-top:4px;}
+.form input	{width:194px; height:20px; border-color:#DBDBDB; border-bottom-width:1px; border-right-width:1px; background-color:#ffffff; padding-left:5px}
+
+textarea{width:194px; height:151px; border-color:#DBDBDB; border-bottom-width:1px; border-right-width:1px; background-color:#ffffff; padding-left:5px;  overflow:hidden;	}
+
+ul {margin:0; padding:0; list-style:none}
+li  {background:url(images/a2.gif) no-repeat left center; margin: 0px 0px 0px 0px; padding:0px 0px 0px 8px}
+li a  {font-family:Tahoma; font-size:11px; line-height:14px; color:#7EA800;}
+
+.ul1 li { background:url(images/a1.gif) no-repeat left center; margin: 0px 0px 0px 0px; color:#10436E; padding:0px 0px 0px 8px; line-height:normal}
+.ul1 li a {color:#10436E;}
+
+.ul2 li { background:url(images/a3.gif) no-repeat 0px 6px; margin: 0px 0px 0px 0px; color:#10436E; padding:0px 0px 0px 8px}
+.ul2 li a {color:#10436E;}
+
+.ul3 li { background:url(images/a3.gif) no-repeat 0px 6px; margin: 2px 0px 0px 0px; color:#10436E; padding:0px 0px 0px 8px}
+.ul3 li a {color:#10436E;}
